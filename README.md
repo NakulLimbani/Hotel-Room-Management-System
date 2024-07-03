@@ -18,4 +18,3 @@ This project is a Hotel Room Management System implemented in C++. It includes f
 - Implement a graphical user interface.
 - Add more room details such as bed type and view.
 - Integrate a database to store room and customer details persistently.
-
